@@ -1,0 +1,13 @@
+Title: Paleta de Coco
+
+----
+
+Description: Disfruta del sabor tropical y refrescante de nuestra paleta de coco, hecha con leche. Esta delicia combina la suavidad de la leche con el sabor exótico del coco, creando un equilibrio perfecto entre cremosidad y frescura. Cada mordida te transportará a una playa paradisíaca, brindándote una experiencia dulce y refrescante que es ideal para cualquier ocasión. Perfecta para los amantes del coco que buscan un toque refrescante y delicioso.
+
+----
+
+Picture: - file://HzJjae32qoHpxTrv
+
+----
+
+Uuid: JkCNtAe02FF0Renc

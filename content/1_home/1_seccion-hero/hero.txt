@@ -1,0 +1,33 @@
+Title: Sección Hero
+
+----
+
+Heading: Deliciosamente Natural
+
+----
+
+Text: ¡Invierte y endulza la vida de tus clientes con deliciosos sabores!
+
+----
+
+Button:
+
+- 
+  text: Ver modelo de negocio
+  link: page://cTBtFbKAcJFUrGhE
+
+----
+
+Button2:
+
+- 
+  text: Conocer Historia
+  link: page://itiXhZ8XQvr3BhDF
+
+----
+
+Picture: - file://gGkiZwHc38qwLjOw
+
+----
+
+Uuid: wJti0LgLDpOGrKX7

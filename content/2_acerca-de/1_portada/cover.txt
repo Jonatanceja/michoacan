@@ -1,0 +1,25 @@
+Title: Portada
+
+----
+
+Heading: Nuestra Historia
+
+----
+
+Text: **Helados y paletas La Michoacana** tuvo su origen a principios de los cuarenta en la población de **Tocumbo, Michoacán**. Los primeros paleteros de la región crearon sus propias recetas **elaboradas a base de frutas naturales**, característica que ha identificado a la marca desde entonces y, hoy en día los productos contienen un alto porcentaje de fruta, lo que favorece para que éstos sean más deliciosos.
+
+----
+
+Button: 
+
+----
+
+Button2: 
+
+----
+
+Picture: - file://8iWSfPpETFpu3sv5
+
+----
+
+Uuid: y623bOjFFPmTHbyg

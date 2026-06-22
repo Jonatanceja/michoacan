@@ -1,0 +1,27 @@
+title: Categoria de productos
+tabs:
+  pages:
+    label: Páginas
+    icon: 📄
+    sections:
+      drafts:
+        type: pages
+        headline: Borradores
+        status: draft
+      published:
+        type: pages
+        headline: Publicadas
+        status: listed
+
+  fields:
+    label: Opciones
+    icon: ⚙️
+    fields:
+      picture:
+        type: files
+        label: Imagen de la categoría
+        layout: cards
+        size: huge
+        max: 1
+        image:
+          cover: true

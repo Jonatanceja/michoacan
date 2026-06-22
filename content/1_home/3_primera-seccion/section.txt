@@ -1,0 +1,33 @@
+Title: Primera sección
+
+----
+
+Picture: - file://QXq6O7MgOSGWKfMM
+
+----
+
+Heading: Descubre la Dulce Oportunidad de Negocio
+
+----
+
+Text:
+
+### La Michoacana Peleterías y Helados!
+¿Estás buscando una inversión emocionante y sabrosa? 
+¡No busques más! Te presentamos la franquicia de helados y peleterías La Michoacana, una marca icónica con más de XX años de experiencia en la creación de delicias congeladas que hacen que los corazones se derritan.
+
+----
+
+Button:
+
+- 
+  text: Modelo de negocio
+  link: page://cTBtFbKAcJFUrGhE
+
+----
+
+Toggle: true
+
+----
+
+Uuid: 5hhGU6wIpMdXGpcI

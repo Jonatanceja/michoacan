@@ -1,0 +1,31 @@
+Title: Nuestra Historia
+
+----
+
+Picture: - file://UEMyukUQ7X4UXyaF
+
+----
+
+Heading: Nuestra Historia
+
+----
+
+Text:
+
+Con la intención de aprovechar el crecimiento del mercado de helados y paletas, detectaron la oportunidad de establecerse en las plazas de las principales ciudades del país, abriendo las primeras sucursales, posteriormente, fueron extendiéndose de norte a sur en todo el territorio nacional.
+
+En virtud de que** La Michoacana** no se identificaba con una imagen propia, a principios de los noventa Alejandro Andrade Andrade propuso que la marca se caracterizara, además del nombre con un logotipo alusivo a la región, por lo que creó el dibujo de la niña indígena michoacana con un helado en la mano en colores rosa mexicano, negro y blanco. Con este diseño se inició una nueva etapa de la marca y se logró un importante cambio que trascendió favorablemente en la imagen. Una vez que **Alejandro Andrade** consiguió los derechos de publicidad y negocios, creó La Tocumbita, S. A. de C. V., empresa que nace con el propósito de vender toda clase de artículos publicitarios de La Michoacana. Posteriormente, además de la publicidad, y ante el constante crecimiento del mercado, inicia con la actividad de fabricación y venta de maquinaria y equipo para paleterías.
+
+Actualmente, la empresa ofrece un servicio integral a la industria del helado y la paleta, y ha adquirido como compromiso proporcionar productos y servicios de excelencia.
+
+----
+
+Button: 
+
+----
+
+Toggle: false
+
+----
+
+Uuid: GIZUEPGWPrV6dw6J

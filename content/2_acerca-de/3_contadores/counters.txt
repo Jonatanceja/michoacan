@@ -1,0 +1,26 @@
+Title: Contadores
+
+----
+
+Counters:
+
+- 
+  counter: Mas de 100 sucursales
+  value: 100
+  symbol: +
+- 
+  counter: Países con respaldo de la marca
+  value: 5
+  symbol: ""
+- 
+  counter: Experiencia en el mercado
+  value: 30
+  symbol: +
+- 
+  counter: Clientes Satisfechos
+  value: 20
+  symbol: k+
+
+----
+
+Uuid: L5gpAFbWhUNa41NU

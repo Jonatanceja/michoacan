@@ -1,0 +1,34 @@
+Title: Curiosidades
+
+----
+
+Picture: - file://XRutdbxtiWFh0hdV
+
+----
+
+Heading: Datos curiosos de La Michoacana
+
+----
+
+Text:
+
+**Las paleterías michoacanas nacen hace más de 60 años en Tocumbo-Michoacán, gracias a una receta casera para preparar nieve de garrafa.**
+
+- En 1942 se abre la primera paletería La Michoacana en la Ciudad de México a un costado del Palacio de Lecumberri.
+- En 1959 las paleterías comienzan a fabricar y vender aguas frescas.
+- En 1960 se comienza a utilizar diferentes nombres para llamar a las paleterías: La Flor de Michoacán, Lindo Michoacán,Las Delicias de Michoacán, La Fuente y por supuesto La Michoacana.
+- En 1990 a partir de un proyecto académico realizado en la Universidad ITESO por Alejandro Andrade y dos compañeros nace el proyecto que posicionará a la emblemática muñequita o guarecita.
+- En 2006 Alejandro Andrade envía a la ciudad de Chicago (Estados Unidos) la primera máquina de paletas modernizada POP CREAM.
+- En 2016 nace MICHOACAN A pedir de boca como un nuevo proyecto, además se crea un sistema integral y de modelo de negocio y la protección de la identidad de la marca en todo América y Europa.
+
+----
+
+Button: 
+
+----
+
+Toggle: false
+
+----
+
+Uuid: DfrhjkesGB3g2G5y

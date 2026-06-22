@@ -1,0 +1,25 @@
+Title: Beneficios de Emprender
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Emprender puede sonar como algo agobiante y complicado, pero en realidad si te comprometes y esfuerzas puedes lograr crear tu propio negocio sin mayores complicaciones.</p><p>Emprender es algo cada vez más común y es una opción muy interesante debido a sus múltiples beneficios que se pueden llegar a conseguir con una dedicación y esfuerzo constante.</p><p>Dentro de los beneficios más importantes, resultado de emprender, son:</p><p>Tener libertad. Tanto financiera como de tiempos, adecuándolos a tu estilo de vida<br>Tener el control y responsabilidad del negocio, fomentando tu motivación, sobre todo si trabajas haciendo lo que disfrutas.<br>Adquirir mucha experiencia en muchas áreas de trabajo, y por consecuencia desarrollaras tus habilidades y obtendrás nuevas.<br>Expandir tus conocimientos constantemente<br>Tener una seguridad laboral<br>Trabajar a tu manera<br>Crear un patrimonio para ti y tu familia, y dejar un legado<br>Formar relaciones laborales y conocer personas con quienes compartir experiencias y poder tener un apoyo mutuo<br>Generar empleos, ofreciendo oportunidades de éxito a tus empleados, además del desarrollo de sus habilidades y experiencia.<br>Sentir orgullo de lo que has creado, además de la posibilidad de ser reconocido.<br>Como puedes ver emprender ofrece muchos beneficios, requiriendo en su mayoría a tu esfuerzo y compromiso, quedando en tus manos tu propio desarrollo y el de tu negocio.</p><p>En Michoacán A Pedir de Boca te asesoramos para que puedas establecer y operar tu paletería bajo nuestro modelo de negocios de la mejor manera posible, con paquetes que te dan todas las herramientas necesarias para que tu nuevo negocio sea todo un éxito.</p><p>¡Atrévete a emprender!</p>"},"id":"f3db336e-6404-4c14-b60f-955567cdb41f","isHidden":false,"type":"text"}],"id":"68c57256-bc90-4142-8a94-72c6bedfeb59","width":"1/1"}],"id":"698acd56-8ac5-4424-967f-2f12be67b189"}]
+
+----
+
+Date: 2024-08-20 23:50:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://8aj8X6kTv02oorN3
+
+----
+
+Short: Emprender puede sonar como algo agobiante y complicado, pero en realidad si te comprometes y esfuerzas puedes lograr crear tu propio negocio sin mayores complicaciones.
+
+----
+
+Uuid: 2iyeXVLateg7hQEC

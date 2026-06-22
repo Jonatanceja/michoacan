@@ -1,0 +1,21 @@
+Title: Registro de marca
+
+----
+
+Heading: Registro de Marca
+
+----
+
+Text: Nuestra marca está registrada en: Estados Unidos, México, Canadá, La Unión Europea y Panamá. Dando respaldo legal completo a todos nuestros licenciatarios.
+
+----
+
+Button:
+
+- 
+  text: Conoce nuestras sucursales
+  link: page://BN0XBVbvmGe4dKGO
+
+----
+
+Uuid: 2sBQy0ZWhene5qfi

@@ -1,3 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Bree Serif", serif;
+}
+
+.bree-serif-regular {
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+/* Customizing the bullets */
+.swiper-pagination-bullet {
+    background: #F6B9A3 !important; /* Change this to your desired color */
+}
+
+.swiper-pagination-bullet-active {
+    background: #EB602E !important; /* Change this to your desired active color */
+}
+
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal {
+    bottom: var(--swiper-pagination-bottom, 0px);
+    top: var(--swiper-pagination-top, auto);
+    left: 0;
+    width: 100%;
+}
+
+.swiper-button-next {
+    color: #EB602E !important;
+}
+
+.swiper-button-prev {
+    color: #EB602E !important;
+}

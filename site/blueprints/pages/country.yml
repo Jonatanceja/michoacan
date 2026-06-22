@@ -1,0 +1,19 @@
+title: País
+icon: globe
+fields:
+  address:
+    type: structure
+    label: Dirección
+    fields:
+      heading:
+        type: text
+        label: Encabezado
+      address:
+        type: textarea
+        label: Dirección
+      state:
+        type: text
+        label: Estado
+      map:
+        type: textarea
+        label: Mapa

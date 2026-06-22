@@ -1,0 +1,1 @@
+<input class="bg-white rounded-md border border-zinc-400 min-w-full">

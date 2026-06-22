@@ -1,0 +1,42 @@
+Title: Características
+
+----
+
+Picture: - file://CSJ3frpii6wI7C4b
+
+----
+
+Heading: ¿Por qué Michocan a pedir de boca?
+
+----
+
+Text:
+
+1. Protección legal y comercial gracias a nuestros registros de marca en diversos países  
+
+2. Más de 30 años de experiencia en el giro, siendo los descendientes de los fundadores de La Michoacana y con ello los pioneros de la industria heladera en México y Estados Unidos 
+
+3. Modelo de negocio que traspasa fronteras, llevando el SABOR DE MÉXICO al mundo y adaptando nuestros productos a nuevos mercados. Siempre listos para expandirnos a cualquier país.
+
+4. Ofrecemos asesoría profesional antes, durante y después de abrir tu negocio en las siguientes áreas: 
+
+- Legal
+- Planeación
+- Implementación
+- Construcción
+- Proveeduría 
+- Marketing 
+- Viabilidad de negocio 
+- Con metodología tradicional de La Michoacana
+
+----
+
+Button: 
+
+----
+
+Toggle: true
+
+----
+
+Uuid: RMKyPO9lx3gNG5ti

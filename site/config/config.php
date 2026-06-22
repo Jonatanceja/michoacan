@@ -22,6 +22,12 @@ return [
     ],
     'api' => env('KIRBY_API', true),
     'cookieName' => env('KIRBY_SESSION', 'kirby_session'),
+    // Serve generated thumbs as WebP by default. Originals are kept untouched
+    // and used as the <picture> <img> fallback for browsers without WebP support.
+    'thumbs' => [
+        'format' => 'webp',
+        'quality' => 80,
+    ],
     'hooks' => require_once 'hooks.php',
     'routes' => require_once 'routes.php',
     'beebmx.kirby-blade.views' => $storage . '/views',
@@ -52,4 +58,5 @@ return [
             return "<?php ray($expression); ?>";
         },
     ],
+
 ];

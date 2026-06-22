@@ -1,0 +1,37 @@
+Title: Linea de tiempo
+
+----
+
+Timeline:
+
+- 
+  date: "1940"
+  text: >
+    Nace la tradición de helados en Tocumbo
+    Michoacan
+- 
+  date: "1942"
+  text: >
+    Se ab re la primera paletería en la
+    Ciudad de México, a un costado del
+    Palacio de Lecumberri
+- 
+  date: "1962"
+  text: 'Se comienza a utilizar diferentes nombres para llamar a las paleterías : La Flor de Michoacán, Lindo Michoacán'
+- 
+  date: "1990"
+  text: >
+    A partir de un proyecto universitario
+    nace el icónico logo de "La Michoacana"
+- 
+  date: "2016"
+  text: >
+    Alejandro Andrade funda "Michoacán a
+    Pedir de Boca" como un nuevo proyecto,
+    donde se crea un sitema integral de
+    modelo con la protección de la
+    identidad de marca.
+
+----
+
+Uuid: HVRpgV1FyDfa1tMi

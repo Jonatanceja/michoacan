@@ -1,0 +1,152 @@
+Title: México
+
+----
+
+Address:
+
+- 
+  heading: Calle 51
+  address: >
+    Av Carlos Castillo Peraza, (calle 51)
+    esquina con calle 42, Xcumpich, 97204
+    Mérida, Yuc., México
+  state: Mérida, Yucatan
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.0590626927738!2d-89.64679871979337!3d21.030322630647778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567438fb857d6f%3A0x6c2c4168dbbd40a2!2sC.%2042%20%26%20C.%2051%2C%20Xcumpich%2C%2097204%20M%C3%A9rida%2C%20Yuc.!5e0!3m2!1ses-419!2smx!4v1723163376554!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Calle 20
+  address: >
+    Calle 20 No. 252 x 39; gran San Pedro
+    Cholul, Merida
+  state: Mérida, Yucatan
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.4096002231063!2d-89.5706694248239!3d21.01629078062997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567740afc8b0e5%3A0x4e5a1faff2bc1a78!2sC.%2020%20D%20252%2C%20Gran%20San%20Pedro%20Cholul%2C%20Jardines%20del%20Nte.%2C%2097305%20M%C3%A9rida%2C%20Yuc.!5e0!3m2!1ses-419!2smx!4v1723164786792!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Calle 9
+  address: >
+    Calle 9 No. 101 Col. Juarez CP:93310
+    Poza Rica, Ver.
+  state: Poza Rica, Veracruz
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3736.336404993039!2d-97.47007442483725!3d20.53341228099487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da6ac388634cbb%3A0x97cfa09a01a0de5c!2sAv%20Benito%20Ju%C3%A1rez%2C%20Poza%20Rica%20de%20Hidalgo%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1724180180561!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Boulevard Paseo Boca del Río
+  address: 'Av. Paseo Boca del Rio #78, Zona Centro. CP: 94290La Tampiquera, Boca del Río, Veracruz, 94290, México'
+  state: Boca del Río, Veracruz
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.9382196178367!2d-96.10839732014135!3d19.11036603595077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c340362233bf2f%3A0x28c0020537604a4f!2sP.%C2%BA%20Boca%20del%20R%C3%ADo%2078%2C%20Zona%20Centro%2C%20Camino%20Real%2C%2094290%20Boca%20del%20R%C3%ADo%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1724177147935!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: República de Argentina 40 Tlaxcala
+  address: >
+    República de Argentina, Tetla, Tetla de
+    la Solidaridad, Tlaxcala, 90430, México
+  state: República de Argentina, Tlaxcala
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.406165477968!2d-98.10909902486648!3d19.438047481842467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d01f09887c1f23%3A0xec9a53cb919783c1!2sRep%C3%BAblica%20de%20Argentina%2C%20Tlaxcala!5e0!3m2!1ses-419!2smx!4v1724177213510!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Calle 8 y 9 Zacatecas 985
+  address: 'Calle 8 y 9 Zacatecas #985 Col. Valle de Aguayo Cd Victoria Tamaulipas CP 87020'
+  state: Cd. Victoria, Tamaulipas
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.7707680185476!2d-99.14726251924506!3d23.755552523660967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8679539f0c3bd151%3A0x7d0fd8521852ed65!2sZacatecas%20985%2C%20Sin%20Nombre%20de%20Col%208%2C%2087000%20Cdad.%20Victoria%2C%20Tamps.!5e0!3m2!1ses-419!2smx!4v1724177508358!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Avenida Lázaro Cárdenas Tamaulipas
+  address: 'Av. Lazaro Cardenas #3331, esq Av. de las Americas. CP: 87049, Ciudad Victoria, Victoria, Tamaulipas, 87078, México'
+  state: Cd. Victoria, Tamaulipas
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.89284939738!2d-99.13894321924583!3d23.751200123671502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953bcd845a5af%3A0xe21ea29a117c9098!2sLazaro%20Cardenas%2C%2087024%20Cdad.%20Victoria%2C%20Tamps.!5e0!3m2!1ses-419!2smx!4v1724177631306!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Nicolas Bravo 703, local 1
+  address: >
+    Nicolas Bravo 703, local 1, esq Juan de
+    Dios Batiz, Col. Jose Ma Morelos.
+    C.P.80170
+  state: Cualiacán Rosales, Sinaloa
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.3169574554963!2d-107.40418102470947!3d24.784597977978866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86bcd0c41122026d%3A0x45a4a3a5880f77a4!2sMICHELAVALOS!5e0!3m2!1ses-419!2smx!4v1724178639509!5m2!1ses-419!2smx" width="%100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Paseo Claussen
+  address: 'Paseo Claussen #32 , esquina Calle Gastelum, Zona Centro. CP: 82000 Mazatlan, Sinaloa'
+  state: Mazatlan, Sinaloa
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790538.03496843!2d-107.50142550055297!3d21.907729151471077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869f5390f7f3cafd%3A0xe8f1fe79335044ce!2sP.%C2%BA%20Claussen%2C%20Centro%2C%2082000%20Mazatl%C3%A1n%2C%20Sin.!5e0!3m2!1ses-419!2smx!4v1724179983104!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Avenida Rueda Medina
+  address: >
+    Avenida Rueda Medina, Isla Mujeres,
+    Municipio de Isla Mujeres, Quintana Roo,
+    77400, México
+  state: Municipio de Isla Mujeres, Quintana Roo
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7702294.365493595!2d-100.31636633748448!3d19.50354328045239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c2558459efe5b%3A0x8b88bd711fb991f5!2sAv%20Rueda%20Medina%2C%2077400%20Isla%20Mujeres%2C%20Q.R.!5e0!3m2!1ses-419!2smx!4v1724180054770!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Avenida Cerro del Sombrerete
+  address: >
+    Avenida Cerro del Sombrerete, 76148
+    Santiago de Querétaro QRO, México
+  state: Querétaro, Querétaro
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3829456.62276158!2d-104.47434451288916!3d20.395101802778484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35af16038b5a5%3A0x5c49652de93bd7ba!2sDelegacion%20Epigmenio%20Gonz%C3%A1lez!5e0!3m2!1ses-419!2smx!4v1724180144902!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Plaza el Mirador, Queretaro
+  address: >
+    Plaza el Mirador. Prolongación
+    Constituyentes Lote 10, Manzana 23
+  state: Querétaro, Querétaro
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3829456.62276158!2d-104.45734451288916!3d20.395101802778484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d3434b6eefa879%3A0x3af9048d6b437aa6!2sProl.%20Constituyentes%20Ote.%2012%2C%2076246%20Qro.!5e0!3m2!1ses-419!2smx!4v1724180848275!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: 'Prol. Ruiz Cortines '
+  address: 'Prol. Ruiz Cortines 3000, local 9. Col. Cumbres de Provenza. CP: 66036'
+  state: Villas del Poniente, Nuevo León
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d623328.687256619!2d-101.03832511129006!3d25.467418436892352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866290af8d5b39bb%3A0x27867a14b6e74574!2sInstituto%20Nouveau%20Campus%20Cumbres!5e0!3m2!1ses-419!2smx!4v1724180979203!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Calz La Huerta 134 C Centro Cosmos
+  address: 'Calz La Huerta 134 C. Fracc Cosmos CP: 58050 (Calz La Huerta 134 C en FB)'
+  state: Morelia, Michoacán
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3756.6639600709395!2d-101.21875152486007!3d19.684336881649546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842d0c2f19dcb5d9%3A0xff507cc3200eb34e!2sCalz%20La%20Huerta%20134C%2C%20Cosmos%2C%2058050%20Morelia%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1724181178861!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Jaime Torres Bodet 6
+  address: >
+    Jaime Torres Bodet 6, Revolución, 61609
+    Pátzcuaro, Michoacán
+  state: Pátzcuaro, Michoacán
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1918503.790489254!2d-103.5741424312316!3d20.089037904664817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842d967785d9dbeb%3A0x1f10847a123293a0!2sJaime%20Torres%20Bodet%2C%20Revoluci%C3%B3n%2C%2061609%20P%C3%A1tzcuaro%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1724181610818!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Libramiento General Ignacio Zaragoza
+  address: >
+    Libramiento Ignacio Zaragoza No.125, Col
+    Centro
+  state: Pátzcuaro, Michoacán
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1918722.4560655307!2d-103.57414262505411!3d20.071174523989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842d977fab3e8be7%3A0x44307291ec475e83!2zRW52w61vcyBQw6F0emN1YXJv!5e0!3m2!1ses-419!2smx!4v1724181827820!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Calle Portal Morelos 38
+  address: 'Calle Portal Morelos 38, Col. Centro CP: 59300'
+  state: La Piedad de Cabadas, Michoacán
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1914542.6226524473!2d-103.98135262151443!3d20.41004144259062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842c1effda6ef97b%3A0x6498c9292056765!2s5%20de%20Febrero%2C%20Centro%2C%2059300%20La%20Piedad%20de%20Cabadas%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1724181996185!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Camino a Santa Ana Tepetitlán
+  address: >
+    Camino a Sta. Ana Tepetitlán 80-E,
+    Agrícola, 45070 Zapopan, Jal.
+  state: Zapopan, Jalisco
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119062.79461637561!2d-103.44913643628855!3d20.643945323120544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ac6222e17547%3A0xc4a64e93bf0e51ab!2sCamino%20a%20Sta.%20Ana%20Tepetitl%C3%A1n%2C%20Francisco%20Sarabia%2C%20Zapopan%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1724182181821!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Av. Sendas 4595
+  address: >
+    Av. Sendas 4595 Local 5 Col. Sendas
+    Residencial C.P 45134
+  state: Zapopan, Jalisco
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119414.43436636975!2d-103.45153402432511!3d20.722359839879402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428a5cf5b9780c7%3A0xaa573fbebf46223d!2sAv.%20P.%C2%BA%20de%20los%20Emperadores%2C%2045134%20Zapopan%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1724182470384!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Circuito Universitario, Chihuahua
+  address: >
+    Circuito Universitario, Chihuahua,
+    Municipio de Chihuahua, Chihuahua,
+    31125, México
+  state: Chihuahua, Chihuahua
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7431658.040500513!2d-109.46631570321006!3d24.563670315510855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea421db7604b6f%3A0x5709d639f11d7858!2sCircuito%20Universitario%2C%2031125%20Chihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1724182587708!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+- 
+  heading: Avenida Santiago Troncoso
+  address: >
+    Avenida Santiago Troncoso Local 10 ECO
+    2000, Ciudad Juárez, Municipio de
+    Juárez, Chihuahua, 32574, México
+  state: Municipio de Juárez, Chihuahua
+  map: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7343416.415928488!2d-109.65669177750635!3d26.012196876912505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e767d237657bb1%3A0x861cde9d3f1dd3d5!2sAv%20Santiago%20Troncoso%2C%2032575%20Chih.!5e0!3m2!1ses-419!2smx!4v1724182645434!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+
+----
+
+Text: 
+
+----
+
+Uuid: OWYJTVBiJ135C6TI

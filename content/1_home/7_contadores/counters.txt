@@ -1,0 +1,22 @@
+Title: Contadores
+
+----
+
+Counters:
+
+- 
+  counter: Utilidad después de impuestos
+  value: 20
+  symbol: '%'
+- 
+  counter: Años de retorno de inversiónn
+  value: 2
+  symbol: ""
+- 
+  counter: Gastos de operación
+  value: 36
+  symbol: '%'
+
+----
+
+Uuid: 2EI1jTShQiemAO4t

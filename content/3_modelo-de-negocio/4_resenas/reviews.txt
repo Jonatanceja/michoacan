@@ -1,0 +1,40 @@
+Title: Casos de Exito
+
+----
+
+Reviews:
+
+- 
+  review: >
+    “Nunca imaginé el éxito que tendría
+    Michoacan A pedir de boca en Carson
+    City. Desde que abrimos nuestras
+    puertas, hemos sido recibidos con los
+    brazos abiertos por la comunidad. ¡La
+    gente ama nuestras recetas tradicionales
+    michoacanas! Ver a las familias
+    disfrutar de nuestros helados y paletas,
+    hechos con tanto cariño, es lo que me
+    motiva a seguir creciendo. La decisión
+    de traer un pedacito de México a Carson
+    fue una de las mejores de mi vida.”
+  name: Oscar Luna
+  picture:
+    - file://ftmfbpr0c5c9IEHx
+- 
+  review: >
+    “Abrir Michoacan A pedir de boca ha
+    sido un sueño hecho realidad. Desde el
+    primer día, hemos sido recibidos con
+    tanto cariño por la comunidad de
+    Bozeman. Ver a las familias disfrutar de
+    nuestros deliciosos helados y paletas me
+    llena de satisfacción. ¡Gracias por
+    todo el apoyo!.”
+  name: Michell Baca
+  picture:
+    - file://SdmtXlb9qXW2xva8
+
+----
+
+Uuid: JNneteRYk9ifYQNv

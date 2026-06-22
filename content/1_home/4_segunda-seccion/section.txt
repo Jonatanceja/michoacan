@@ -1,0 +1,29 @@
+Title: Segunda sección
+
+----
+
+Picture: - file://o0FC3brxBQpTvR5w
+
+----
+
+Heading: Nuestra Historia
+
+----
+
+Text: A lo largo de más de 30 años hemos desarrollado marcas adicionales a “La Michoacana”, creando así cadenas de paleterias tipo franquicia, bajo nuestra marca insignia “Michoacan a Pedir de Boca”, con una imagen nueva y original, manteniendo la esencia y frescura que llevo a “La Michoacana” al reconocimiento internacional. 
+
+----
+
+Button:
+
+- 
+  text: Conoce más
+  link: page://itiXhZ8XQvr3BhDF
+
+----
+
+Toggle: false
+
+----
+
+Uuid: quCdQJrXZlJE8dGB

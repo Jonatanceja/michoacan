@@ -1,0 +1,23 @@
+title: Instagram Feed
+icon: instagram
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  feed:
+    type: structure
+    label: Feed
+    fields:
+      picture:
+        type: textarea
+        label: Imagen de feed
+  button:
+    type: structure
+    label: Botón
+    fields:
+      text: 
+        label: Texto de botón
+        type: text
+      link:
+        label: Enlace del botón
+        type: link

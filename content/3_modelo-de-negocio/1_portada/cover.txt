@@ -1,0 +1,28 @@
+Title: Portada
+
+----
+
+Heading: Modelo de Negocio
+
+----
+
+Text:
+
+**¿Estás buscando una inversión emocionante y sabrosa? **
+Te proporcionamos un “Business Plan” con datos detallados y personalizados para la apertura de tu paletería “Michoacan a Pedir de Boca”. Con un respaldo del funcionamiento de este modelo de negocio. 
+
+----
+
+Button: 
+
+----
+
+Button2: 
+
+----
+
+Picture: - file://v8Ea66b2mabtBc1u
+
+----
+
+Uuid: ne8xvqqCEnkUnx25

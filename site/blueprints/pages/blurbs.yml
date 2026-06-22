@@ -1,0 +1,12 @@
+title: Recuadros de información
+fields:
+  blurbs:
+    type: structure
+    label: Blurbs
+    fields:
+      heading:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto

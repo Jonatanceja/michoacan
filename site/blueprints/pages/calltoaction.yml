@@ -1,0 +1,45 @@
+title: Sescción de texto e imagen
+columns:
+  left:
+    width: 1/2
+    sections:
+      picture:
+        type: fields
+        fields:
+          picture:
+            type: files
+            label: Imagen
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+
+  right:
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+            label: Encabezado
+          text:
+            type: textarea
+            label: Contenido
+          button:
+            type: structure
+            label: Botón
+            fields:
+              text: 
+                label: Texto de botón
+                type: text
+              link:
+                label: Enlace del botón
+                type: link
+          toggle:
+            label: Diseño del sección
+            type: toggle
+            text:
+              - "Texto a la Derecha"
+              - "Texto a la Izquierda"

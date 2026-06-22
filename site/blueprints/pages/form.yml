@@ -1,0 +1,15 @@
+title: Formulario
+fields: 
+  heading: 
+    type: text
+    label: Encabezado
+    width: 1/2
+  picture:
+    type: files
+    label: Imagen
+    width: 1/2
+    max: 1
+    layout: cards
+    size: huge
+    image:
+      cover: true

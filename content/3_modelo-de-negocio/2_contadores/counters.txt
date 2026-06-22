@@ -1,0 +1,26 @@
+Title: Contadores
+
+----
+
+Counters:
+
+- 
+  counter: Mas de 100 Sursales
+  value: 100
+  symbol: +
+- 
+  counter: Paises com respaldo de la marca
+  value: 5
+  symbol: ""
+- 
+  counter: Años de experiencia en el mercado
+  value: 30
+  symbol: +
+- 
+  counter: Clientes felices y satifechos
+  value: 20
+  symbol: k+
+
+----
+
+Uuid: zzGeVUdnhWHIHmd8

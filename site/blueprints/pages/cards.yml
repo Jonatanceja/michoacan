@@ -1,0 +1,23 @@
+title: Tarjetas historicas
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  cards:
+    type: structure
+    label: Tarjetas
+    fields:
+      card:
+        type: text
+        label: Tarjeta
+      text:
+        type: textarea
+        label: Texto
+      picture:
+        type: files
+        label: Imagen
+        max: 1
+        layout: cards
+        size: huge
+        image:
+          cover: true

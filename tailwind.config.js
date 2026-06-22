@@ -6,7 +6,15 @@ import typography from '@tailwindcss/typography'
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        darkPeach: '#EB602E',
+        peach: '#F6B9A3',
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/images/patron.webp')",
+      }
+    },
   },
   variants: {
     extend: {},

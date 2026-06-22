@@ -1,0 +1,19 @@
+title: Texto simple
+
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  text:
+    type: textarea
+    label: Texto
+  button:
+    type: structure
+    label: Primer Botón
+    fields:
+      text: 
+        label: Texto de botón
+        type: text
+      link:
+        label: Enlace del botón
+        type: link

@@ -1,0 +1,29 @@
+Title: Portada
+
+----
+
+Heading: Sucursales
+
+----
+
+Text: Conoce las ubicaciones de las sucursales en Michoacán A Pedir de Boca en México, Estados Unidos y Panamá.
+
+----
+
+Button:
+
+- 
+  text: ""
+  link: ""
+
+----
+
+Button2: 
+
+----
+
+Picture: - file://gEeHELQWs52JvSuV
+
+----
+
+Uuid: LpMQAeZPyceQ92jV

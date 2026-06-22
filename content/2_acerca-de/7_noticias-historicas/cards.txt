@@ -1,0 +1,75 @@
+Title: Noticias históricas
+
+----
+
+Heading: Noticias Históricas
+
+----
+
+Cards:
+
+- 
+  card: >
+    La Michoacana historia de los paleteros
+    de Tocumbo
+  text: >
+    Varios paleteros, con la sana intención
+    de preservar las marcas, las fueron
+    registrando a título personal, al no
+    existir un acuerdo entre todos. Sin
+    embargo, muchos han adoptado como
+    emblema la imagen de una guarecita o
+    niña tarasca con una paleta que
+    Alejandro Andrade desarrolló y
+    promovió y que ahora puede verse en
+    muchas paleterías del país”.
+  picture:
+    - file://DqqYY9hgCa4qwB65
+- 
+  card: The Arizon Republic
+  text: >
+    Alejandro Andrade al darse cuenta de que
+    las personas pensaba que sólo una
+    familia era propietaria de las
+    paleterías michoacanas, vio la
+    oportunidad de crear un modelo de
+    negocio. Hoy su firma vende uniformes,
+    contenedores y anuncios con el logotipo
+    a varios miles de paleteros que llevan
+    este nombre.
+  picture:
+    - file://wWRsll7PccFeRNys
+- 
+  card: Expansión 500
+  text: >
+    Industrias Alto y La Tocumbita son
+    algunas empresas fundadas por Alejandro
+    Andrade para dar el servicio de imagen y
+    maquinaria a paleterias michoacanas. La
+    imagen de las paleterias michoacanas se
+    difundió a gran escala entre las
+    paleterias, de las cuales Andrade no
+    tenía control del uso que le daban. Por
+    ese motivo, estableció un modelo de
+    negocios que a la fecha sigue
+    optimizándose para lograr el éxito.
+  picture:
+    - file://dpVb4jCBeP5lVvI7
+- 
+  card: MB Magazine
+  text: >
+    El estado de Michoacán es conocido por
+    sus famosos helados y paletas gracias a
+    las paleterias michoacanas. Su éxito se
+    debe a la gran cantidad de negocios que
+    puedes encontrar en todo el país.
+    Gracias al modelo de negocios de
+    Alejandro Andrade se busca unificar
+    todas las paleterias que llevan por
+    nombre Paleterias Michoacanas.
+  picture:
+    - file://Ugy8FzqrzjQX1At7
+
+----
+
+Uuid: 58rKZOAdQRfVOOro

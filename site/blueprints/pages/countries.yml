@@ -1,0 +1,5 @@
+title: Paises
+icon: globe
+preset: pages 
+templates:
+  - country

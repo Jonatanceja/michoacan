@@ -1,0 +1,28 @@
+title: Preguntas Frecuentes
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  blurbs:
+    type: structure
+    label: Cuerpo
+    fields:
+      icon:
+        type: files
+        label: Imagen
+      blurb:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto
+  faq:
+    type: structure
+    label: Preguntas Frecuentes
+    fields:
+      question:
+        type: text
+        label: Pregunta
+      answer:
+        type: textarea
+        label: Respuesta

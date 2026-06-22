@@ -1,0 +1,25 @@
+Title: Importancia de la Capacitación para la producción de Helados y Paletas
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Una capacitación es un proceso por el cual se busca beneficiar tanto a los trabajadores como al negocio mismo, dándoles los conocimientos y desarrollando sus habilidades para que puedan lograr un negocio exitoso y permanentemente rentable.</p><p>Dentro de la industria de helados y paletas la capacitación sirve para dar las herramientas y conocimientos relacionados con la preparación de los productos y manejo de equipos como <a href=\"https://lcfrio.com/servicios/camaras-de-refrigeracion/\" target=\"_blank\">cámaras de refrigeración</a>, siguiendo la tradición y apegándose a los altos estándares de calidad, además de que a través de la capacitación se asesora en lo relacionado al uso de la maquinaria y el equipo empleado en la elaboración de los productos.</p><p>En general la capacitación nos da las bases para un buen desarrollo de los negocios, y por consecuencia resulta en varios beneficios importantes, tanto para los negocios como para los trabajadores y los clientes.</p>"},"id":"08b68e6f-6db1-46c7-94a0-bb63b934b9f7","isHidden":false,"type":"text"}],"id":"d8308dfc-d37b-443b-b9d0-387b7b36c664","width":"1/1"}],"id":"d1389032-0c8a-494b-829c-6b20d477506d"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Beneficios para los Negocios:</strong>"},"id":"8bdb1c9a-3b5f-4e21-bae9-bcb1896ed4c0","isHidden":false,"type":"heading"}],"id":"cb50bbdb-d6cb-4fc4-b78f-828cdfeffdf5","width":"1/1"}],"id":"0f121675-bdcf-4660-a1a9-6cfc97a7d467"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Genera una mayor rentabilidad</li><li>Otorga una ventaja competitiva y diferenciación de la competencia</li><li>Disminuye los costos operativos</li><li>Mejora el desempeño de los trabajadores</li><li>Incrementa la productividad y la calidad de los productos</li></ul>"},"id":"7cc321ba-bf19-4ffa-8e2f-90266bd2be15","isHidden":false,"type":"list"}],"id":"c8a72890-6d3b-4a3e-b2af-57ca4c40563d","width":"1/1"}],"id":"ca60c2df-fc94-4632-942c-c809b5925d28"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Beneficios para los Trabajadores:</strong>"},"id":"51e65ffc-aa35-4cea-ae7b-e034b8e786b4","isHidden":false,"type":"heading"}],"id":"e2725121-ddcb-4560-98ce-0e2bf0e38dca","width":"1/1"}],"id":"09ffc21d-7065-4b14-bbd1-30ccc27732f2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Mayor eficiencia y mejor desempeño</li><li>Desarrolla sus habilidades y conocimientos</li><li>Promueve su desarrollo personal y profesional</li><li>Fomenta las relaciones y una buena comunicación</li><li>Favorece a la formación de lideres</li></ul>"},"id":"b0bb2659-139c-49f9-bd29-c5223b49d456","isHidden":false,"type":"list"}],"id":"a75b782b-39d2-4bf2-9f04-d349dbda32bb","width":"1/1"}],"id":"95e99c6d-4ff0-413c-af52-08880b7aea10"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h2","text":"<strong>Beneficios para los Clientes:</strong>"},"id":"0a722f35-8c4f-4c21-9eaa-e91b0a858181","isHidden":false,"type":"heading"}],"id":"07d1a4b8-c6dd-4ca0-b0d3-c6b890dc40c0","width":"1/1"}],"id":"ad147ca4-dfc8-4140-8a28-8071bc70b664"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Obtienen un excelente servicio</li><li>Quedan satisfechos</li><li>Genera confianza</li><li>Reciben productos de calidad</li></ul>"},"id":"0031b0e2-dc4a-48d4-8153-668608590cb9","isHidden":false,"type":"list"}],"id":"d7d7cb39-a3f5-470f-9f5d-ee50da526e3f","width":"1/1"}],"id":"702c5bfa-f3df-4d6f-a08a-1bacf7bd3465"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>A través de <a href=\"http://www.thefrozeninstitute.com/\">The Frozen Institute</a> (nuestro instituto de formación) ofrecemos a nuestros adquirientes una capacitación junto a verdaderos maestros heladeros, con la cual se busca que no solo obtengan las herramientas necesarias para operar el equipo, sino también que puedan crear productos con gran calidad, originalidad y tradición.</p>"},"id":"f0ed769f-2753-47a4-bdb0-c497bbdcdc76","isHidden":false,"type":"text"}],"id":"dacb0a2c-8141-4e37-9c0f-8f15eaf7200a","width":"1/1"}],"id":"3a97a4c5-69bc-42f8-8263-4aa596584f86"}]
+
+----
+
+Date: 2023-01-12 23:50:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://T0gRoUx5JwvgGDmS
+
+----
+
+Short: 
+
+----
+
+Uuid: s7zDJ1Clz8HHgYCp

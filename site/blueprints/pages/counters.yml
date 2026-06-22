@@ -1,0 +1,15 @@
+title: Contadores
+fields:
+  counters:
+    type: structure
+    label: Contadores
+    fields:
+      counter:
+        type: text
+        label: Contador
+      value:
+        type: number
+        label: Valor
+      symbol:
+        type: text
+        label: Símbolo

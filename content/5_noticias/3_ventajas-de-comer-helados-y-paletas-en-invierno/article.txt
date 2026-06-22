@@ -1,0 +1,25 @@
+Title: Ventajas de Comer Helados y paletas en invierno
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Todos relacionamos el helado y las paletas con el verano y climas cálidos, e inclusive podemos pensar que podría ser dañino para nuestra salud ingerirlos cuando llega el invierno y las temperaturas bajan, pero por más sorpréndete que parezca, el helado y las paletas ofrecen muchos beneficios al consumirlos cuando el clima esta frio, e inclusive puede ser una mejor opción que consumir bebidas calientes como el chocolate o café.</p><p><strong>Ventajas:</strong></p><p>La principal ventaja (y la más sorprendente) es que cuando hace frio el helado nos ayuda a aclimatarnos y no sentir tanto frio. Esto sucede porque el helado produce una mayor quema de calorías en nuestro cuerpo, además de que es muy rico en carbohidratos, que nos dan más energía y que ayudan a que nuestro organismo regule su temperatura a través de nuestro metabolismo.</p><p>Ayudan a desinflamarnos la garganta y a cicatrizar cuando tenemos molestias o estamos resfriados</p><p>Acostumbra al organismo al frio, por lo que si lo consumes seguido hay menos posibilidades de resfriarse</p><p>Y como dato curioso, el helado es muy consumido en países muy al norte, como Rusia, Finlandia y Suecia, esto debido no solo a que a las personas les guste mucho su sabor, sino que también para así regular sus temperaturas corporales y resistir mejor los climas extremos.</p><p>Estas son las principales ventajas que ofrece consumir helado en invierno, pero no ignoremos también los múltiples beneficios que ofrece helado en cualquier época del año que van desde llenarnos de energía, reducir el estrés, fortalecer nuestros huesos y lo más importante, ayuda a mejorar nuestro estado de ánimo.</p><p>Ahora que conoces todos estos beneficios del helado, te invitamos a que vayas a tu sucursal de MICHOACÁN A PEDIR DE BOCA más cercana para que puedas aprovechar todas las ventajas que este delicioso alimento te ofrece.</p>"},"id":"de2304b4-e8c0-4d2c-a154-272cf6f5506f","isHidden":false,"type":"text"}],"id":"7da12e05-7fae-47ec-bdd2-570a78e16c33","width":"1/1"}],"id":"c6efd775-b9f9-40ac-ba5f-96fd77ff5a4b"}]
+
+----
+
+Date: 2022-12-01 23:45:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://ueNPY9zlNGyN4epz
+
+----
+
+Short: Todos relacionamos el helado y las paletas con el verano y climas cálidos, e inclusive podemos pensar que podría ser dañino para nuestra salud ingerirlos cuando llega el invierno y las temperaturas bajan, pero por más sorpréndete que parezca
+
+----
+
+Uuid: dEFbDyfl6WYPymiA

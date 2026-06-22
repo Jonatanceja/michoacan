@@ -38,5 +38,10 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.2.4",
     "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "countup.js": "^2.8.0",
+    "locomotive-scroll": "^4.1.4",
+    "swiper": "^11.1.9"
   }
 }

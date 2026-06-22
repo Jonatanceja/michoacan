@@ -1,0 +1,42 @@
+title: Sección de portada
+columns:
+  - width: 1/2
+    fields:
+      heading: 
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto
+      button:
+        type: structure
+        label: Primer Botón
+        fields:
+          text: 
+            label: Texto de botón
+            type: text
+          link:
+            label: Enlace del botón
+            type: link
+      button2:
+        type: structure
+        label: Segundo Botón
+        fields:
+          text: 
+            label: Texto de botón
+            type: text
+          link:
+            label: Enlace del botón
+            type: link
+
+  - width: 1/2
+    fields:
+      picture:
+        type: files
+        label: Imagen
+        max: 1
+        layout: cards
+        size: full
+        image:
+          cover: false
+          back: white

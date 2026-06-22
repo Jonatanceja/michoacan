@@ -1,0 +1,13 @@
+Title: Contacto
+
+----
+
+Heading: ¿Quieres tener tu propia paleteria "Michoacan a Pedir de Boca"?
+
+----
+
+Text: Si quieres ser dueño de tu propio negocio, contáctanos y sé parte de “Michoacan A Pedir de Boca"
+
+----
+
+Uuid: evpuhtbAQxhvNb9L

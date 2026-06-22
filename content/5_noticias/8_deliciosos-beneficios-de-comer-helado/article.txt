@@ -1,0 +1,25 @@
+Title: Deliciosos beneficios de comer helado
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Existen enormes beneficios en comer helado, sobre todo si en su elaboración es cuidada la calidad de sus ingredientes. Si evitamos materias primas sintéticas como polvos y concentrados, tendremos un alimento con alto grado nutricional con el valor de sus ingredientes.</p>"},"id":"d741e6da-ba8d-421e-bade-70e19fbcf029","isHidden":false,"type":"text"}],"id":"84361ff3-c0ea-4c0e-ac40-df869be5546b","width":"1/1"}],"id":"d31f67da-0267-4213-970f-881488900f24"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Los helados aportan una gran cantidad de calcio.</li><li>Las proteínas mayoritarias en los helados son las albúminas y las globulinas. Los helados poseen las proteínas y vitaminas de la leche y del yogur, por lo tanto, pueden ser un postre o merienda muy completa, especialmente para niños, enfermos o ancianos que no gozan de un buen apetito.</li><li>Los azúcares que contiene el helado proporcionan gran cantidad de energía al cuerpo, también puede emplearse la miel o el jarabe de glucosa en su elaboración.</li><li>Los helados elaborados de manera artesanal contienen solamente un 6% de grasa en su composición.</li><li>Los helados contribuyen a la hidratación, combaten la resequedad de las vías respiratorias, facilitan la digestión y crean una sensación de bienestar a quien lo consume.</li><li>Las personas con diabetes y las que quieren vigilar su peso pueden consumir helados eligiendo la versión light. Éstas suelen llevar edulcorantes no calóricos por lo que, con moderación, pueden ser consumidos sin problema.</li><li>En cuanto a los helados en formato sorbete, tienen otras cualidades diferentes al helado en sí, basadas en el porcentaje de frutas que contienen, siendo su contribución al cuerpo energética y refrescante.</li><li>Los helados y granizados son una excelente opción para reducir las molestias ocasionadas por enfermedades como la amigdalitis, ya que disminuyen la inflamación, ayudando a su vez a controlar el dolor.</li></ul>"},"id":"1017f49d-5b64-4117-bd12-97c100917087","isHidden":false,"type":"list"}],"id":"963a0cad-5593-4b36-ab74-61cb7cc440d4","width":"1/1"}],"id":"7339f30f-642e-4b1e-922e-d2c617424300"}]
+
+----
+
+Date: 2024-08-21 00:10:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://czhWGzxUx8pvAZ2c
+
+----
+
+Short: Existen enormes beneficios en comer helado, sobre todo si en su elaboración es cuidada la calidad de sus ingredientes. Si evitamos materias primas sintéticas como polvos y concentrados, tendremos un alimento con alto grado nutricional con el valor de sus
+
+----
+
+Uuid: v1srOlbUg4CBtGjw

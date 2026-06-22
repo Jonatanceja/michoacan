@@ -1,0 +1,27 @@
+title: Misión y valores
+
+fields:
+  mission:
+    type: textarea
+    label: Misión
+    width: 1/2
+  missionIcon:
+    type: files
+    label: Imagen
+    width: 1/2
+  vision:
+    type: textarea
+    label: Visión
+    width: 1/2
+  visionIcon:
+    type: files
+    label: Imagen
+    width: 1/2
+  values:
+    type: textarea
+    label: Valores
+    width: 1/2
+  valuesIcon:
+    type: files
+    label: Imagen
+    width: 1/2

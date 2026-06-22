@@ -1,0 +1,12 @@
+title: Linea de tiempo
+fields:
+  timeline:
+    type: structure
+    label: Linea de tiempo
+    fields:
+      date:
+        type: text
+        label: Fecha
+      text:
+        type: textarea
+        label: Texto

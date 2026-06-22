@@ -1,0 +1,25 @@
+Title: Consejos Búsqueda de local
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>La búsqueda de elección de un local para montar tu negocio es parte fundamental del proceso de análisis previo y será clave para potenciar tu paletería.</p><p>El geomarketing es la herramienta que te ayudará a dar con el mejor espacio.</p><p>Ten en cuenta lo siguiente:</p>"},"id":"98ec451c-2607-4828-b721-73f2db7bcf39","isHidden":false,"type":"text"}],"id":"a5eebb82-fc96-4648-9021-ea03a9464058","width":"1/1"}],"id":"18436884-c631-49ef-a0d3-999fbc40785b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<ul><li>Es recomendable situarla cerca de parques, plazas o avenidas principales que aseguren el tránsito de personas. En cuando a dónde situarla en una calle, se recomienda el final de la misma o en una esquina o cruce con otra calle porque tiene mayor visibilidad. También puedes abrir la paletería en el patio de comidas (food court) de un centro comercial.</li><li>Comprueba la visibilidad de tu local desde todos los ángulos posibles y verifícala a distintas horas del día.</li><li>Asegúrate de que no hay columnas o farolas que puedan ocultar tu cartel o escaparate y que los contenedores de basura tienen una ubicación que no afecta a tu fachada o entrada.</li><li>Revisar que el local cuente con la estructura adecuada tanto para el laboratorio como el área de venta.</li><li>Preferiblemente que el local sea Horizontal, de esta manera podemos exhibir mejor nuestros helados, paletas y snaks</li><li>Haz un plano del local y así genera la distribución. Es clave para posicionar la maquinaria.</li><li>Antes de tomar un local firma un contrato a largo plazo y con precio de alquiler fijado por la ley, ya que en muchas ocasiones cuando los arrendadores logran percibir algo de éxito aumentan sus precios, evita que esto te suceda para evitar problemas legales a futuro.</li></ul>"},"id":"f4f822ae-54d0-40c3-a0ae-a4c8ff45df73","isHidden":false,"type":"list"}],"id":"1c0b8706-5e58-443d-aa23-05354bbe1f37","width":"1/1"}],"id":"ef4d29d7-dd91-4e0d-aeed-a8a5e6546da7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Parte de la asesoría que te brindamos en Michoacán A Pedir de Boca, es precisamente ayudarte a seleccionar el mejor local posible, así como información relevante que te servirá a la hora de montar tu paletería.</p><p>Quieres conocer más, ponte en contacto a través de nuestro formulario de contacto.</p>"},"id":"8610ecb4-a424-45fe-b8c8-90ae0c21d797","isHidden":false,"type":"text"}],"id":"f0c208d9-8647-408b-8ceb-b62b3a938d86","width":"1/1"}],"id":"99fa592b-3cea-4ff4-9528-ce7f77b16602"}]
+
+----
+
+Date: 2024-08-20 23:55:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://YmjW7JEPKnSlcRhI
+
+----
+
+Short: La búsqueda de elección de un local para montar tu negocio es parte fundamental del proceso de análisis previo y será clave para potenciar tu paletería. El geomarketing es la herramienta que te ayudará a dar con el mejor espacio
+
+----
+
+Uuid: uAISwfbts8IsUPuS

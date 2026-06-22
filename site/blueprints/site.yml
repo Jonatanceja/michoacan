@@ -1,3 +1,95 @@
 title: Site
-preset: pages
-unlisted: true
+tabs:
+  content:
+    label: Páginas
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    drafts:
+      extends: sections/articles
+      headline: Borradores
+    unlisted:
+      extends: sections/articles
+      headline: Páginas sin publicar
+    listed:
+      extends: sections/articles
+      headline: Páginas publicadas
+    templates:
+      - home
+      - about
+      - branches
+      - business
+      - contact
+      - blog
+      - text
+      - catalog
+  
+  contact:
+    label: Contacto
+    icon: email
+    fields:
+      email:
+        label: Correo electrónico
+        type: email
+        width: 1/2
+      phoneMexico:
+        icon: phone
+        label: Teléfono de México
+        type: text
+        width: 1/2
+      phoneInternational:
+        icon: phone
+        label: Teléfono Internacional
+        type: text
+        width: 1/2
+      whatsapp:
+        icon: whatsapp
+        label: Whatsapp
+        type: text
+        width: 1/2
+      facebook:
+        icon: facebook
+        label: Facebook
+        type: url
+        width: 1/2
+      instagram:
+        icon: instagram
+        label: Instagram
+        type: url
+        width: 1/2
+      youtube:
+        label: youtube
+        type: url
+        width: 1/2
+        
+  seo:
+    label: SEO
+    icon: search
+    fields: 
+      description:
+        label: Descripción del sitio
+        type: textarea
+      footer:
+        label: Pie de página
+        type: textarea
+      slogan:
+        label: Slogan
+        type: textarea
+      pixel:
+        label: Pixel de Facebook
+        type: textarea
+        width: 1/2
+      analytics:
+        label: Google Analytics
+        type: textarea
+        width: 1/2
+      opengraph:
+        label: Imagen Open Graph
+        type: files
+        max: 1
+
+
+

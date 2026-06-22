@@ -1,0 +1,45 @@
+Title: Preguntas Frecuentes
+
+----
+
+Heading: Conoce a Michoacan a Pedir de Boca
+
+----
+
+Blurbs:
+
+- 
+  icon:
+    - file://qdU90BOJ3wDzlZqB
+  blurb: Más de 150 Sucursales
+  text: ""
+- 
+  icon:
+    - file://jjA9masSHpF7DU19
+  blurb: Generador de más de 700 empleos
+  text: ""
+- 
+  icon:
+    - file://zZhKE8I18K9ikhwq
+  blurb: Multiplicador de Inversiones
+  text: ""
+
+----
+
+Faq:
+
+- 
+  question: ¿Cómo abrir mi propia paleteria?
+  answer: |
+    Abrir tu propio negocio con nuestra marca es muy sencillo, solo necesitas:
+    1. Tener una o más opciones de locales previstos.
+    2. Agenda una evaluación de locales con uno de nuestros asesores expertos.
+    3. Desarrollo del proyecto.
+
+----
+
+Text: 
+
+----
+
+Uuid: jwzuedGqjAvxgjo2

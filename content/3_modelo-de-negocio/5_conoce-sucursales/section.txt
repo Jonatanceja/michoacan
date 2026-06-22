@@ -1,0 +1,29 @@
+Title: Conoce sucursales
+
+----
+
+Picture: - file://nBwSIDZvgcnsRxXH
+
+----
+
+Heading: Michoacán A Pedir de Boca una gran tradición
+
+----
+
+Text: Visita nuestras más de 100 Paleterías en México, EEUU y Panamá
+
+----
+
+Button:
+
+- 
+  text: Ver sucursales
+  link: page://BN0XBVbvmGe4dKGO
+
+----
+
+Toggle: true
+
+----
+
+Uuid: 30pccNMaQAnymh78

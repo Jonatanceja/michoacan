@@ -1,0 +1,47 @@
+Title: Información
+
+----
+
+Blurbs:
+
+- 
+  heading: >
+    Plan de negocios para abrir tu
+    paletería
+  text: 'Te proporcionamos un **“Business Plan”** con datos detallados y personalizados para la apertura de tu paletería “Michoacan a Pedir de Boca”. Con un respaldo del funcionamiento de este modelo de negocio.'
+- 
+  heading: 'Recetas 100% mexicanas y originales'
+  text: 'Un **maestro heladero** con años de experiencia y tradición familiar originario de las tierras de Michoacán, te enseñará las mejores recetas de helados, paletas, aguas frescas y snacks. '
+- 
+  heading: Estudio de locación
+  text: 'Realizamos un **estudio del lugar** de interés para trabajar, evaluando de manera completa y profesional su local, determinando así el mejor plan a seguir para su negocio.'
+- 
+  heading: 'Marca Registrada: Michoacan A Pedir de Boca'
+  text: '“Michoacan a Pedir de Boca” está **registrada en Estados Unidos, México, Canadá, Panamá y La Unión Europea**, lo que asegura tranquilidad legal para tu negocio.'
+- 
+  heading: Maquinaria y Equipo
+  text: 'Incluimos refrigeradores, máquinas para la elaboración de helados y paletas. **Certificadas y con garantía**, de las mejores marcas para el funcionamiento correcto de tu paletería.'
+- 
+  heading: >
+    Asesoramiento legal, comercial, de
+    planeación y arquitectónico.
+  text: >
+    El equipo de “Michoacan a Pedir de
+    Boca” te asesora  para obtener
+    permisos, realizar remodelaciones e
+    inaugurar y manejar tu negocio.
+- 
+  heading: Capacitación completa
+  text: 'Capacitación con la metodología completa en la elaboración de: helados, paletas, aguas y snacks.'
+- 
+  heading: >
+    Modelo de negocio no franquicia (sin
+    cobro de regalías)
+  text: >
+    En Michoacan A Pedir de Boca te damos
+    todos los beneficios de una marca
+    registrada, sin pagar regalias.
+
+----
+
+Uuid: tURu80EtLBqU0bg2

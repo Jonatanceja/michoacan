@@ -1,0 +1,38 @@
+Title: Misión y valores
+
+----
+
+Mission: Ofrecer a través de nuestros productos el sabor tradicional y artesanal de los helados mexicanos, haciendo de esta tradición heladera una insignia de la cultura de nuestro país .
+
+----
+
+Missionicon: - file://1pRmAYjw6EJtIXAG
+
+----
+
+Vision: Alcanzar el reconocimiento mundial de la tradición heladera mexicana a través de un modelo de negocio exitoso con productos frescos y de calidad.
+
+----
+
+Visionicon: - file://qdTvJDlZu574cNky
+
+----
+
+Values:
+
+Honestidad  
+Calidad  
+Pasión  
+Innovación
+Orientación al cliente  
+Originalidad  
+Creatividad  
+Tradición
+
+----
+
+Valuesicon: - file://cMvY44yLOwRxuIdo
+
+----
+
+Uuid: 8bYl0LuD4sUBhL2y

@@ -1,0 +1,25 @@
+Title: ¿Por qué tener mi propio negocio?
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Algunas personas están predestinadas a emprender, para otros es intimidante. Según Entrepreneur, estas son algunas poderosas razones para tener tu propio negocio.</p><p>Flexibilidad, Más tiempo libre (eventualmente), Toma de decisiones, Establecer fechas de entrega, Crear ambiente personal, Perseguir una pasión, Construir algo de la nada, Conocer nuevas personas, Conformar un equipo, Crear empleos, Ayudar a personas, Convertirse en un experto, Invertir en uno mismo, Hacer más dinero, Independencia financiera, Reconocimiento, Nuevos retos todos los días, Exponerse a nuevas culturas, Descubrir nuevos campos, Crear un activo, Conectarse con los clientes, Delegar tareas aburridas, La posibilidad de dejar de trabajar, El poder de dar, Involucrarse con la comunidad, Mejorar la industria, Tener un mentor, Convertirse en mentor, Aprender nuevas habilidades, Atender a clases y seminarios, Posibilidad de una oficina grande, Trabajar desde donde quieras, La opción de estar en varios negocios, Ganar experiencia como emprendedor, Obtener reconocimiento, Hacer las cosas más rápido, Construir una marca personal, Mayor creatividad, Inspirar a otros, Reducir el trayecto de traslado, Estabilidad laboral, Orgullo y satisfacción, Alcanzar los sueños, Aceptar el fracaso, Una gran historia que contar, Dejar un legado, Cambiar el mundo, Hay muchos recursos, Nada que te detenga.</p><p>¡Es tiempo de emprender, éxito!</p>"},"id":"fdd2e53a-8aa3-41fd-bb98-06e4710bd3e5","isHidden":false,"type":"text"}],"id":"213a934d-79b1-4ed0-a2fa-e0143fe1ce5d","width":"1/1"}],"id":"8fea72a1-124b-4633-ae16-f1581f1def7b"}]
+
+----
+
+Date: 2022-09-15 23:55:00
+
+----
+
+Author: 
+
+----
+
+Picture: - file://SVrAxEia2zyrsBAV
+
+----
+
+Short: Algunas personas están predestinadas a emprender, para otros es intimidante. Según Entrepreneur, estas son algunas poderosas razones para tener tu propio negocio. Flexibilidad, Más tiempo libre (eventualmente), Toma de decisiones, Establecer fechas de entrega, Crear ambiente personal, Perseguir una pasión
+
+----
+
+Uuid: vUTQw83PmLDsuNL6

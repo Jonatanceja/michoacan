@@ -1,0 +1,1 @@
+<div {{ $attributes->merge(['class' => 'prose text-lg mx-auto text-zinc-500 min-w-full']) }}>{{ $slot }}</div>

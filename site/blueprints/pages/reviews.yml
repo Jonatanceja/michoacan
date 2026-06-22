@@ -1,0 +1,20 @@
+title: Reseñas
+
+fields:
+  reviews:
+    type: structure
+    label: Reseñas
+    fields:
+      review:
+        type: textarea
+        label: Reseña
+      name:
+        type: text
+        label: Nombre
+      picture:
+        type: files
+        label: Imagen
+        layout: cards
+        max: 1
+        image:
+          cover: true

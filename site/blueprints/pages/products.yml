@@ -1,0 +1,22 @@
+title: Productos
+fields:
+  products:
+    type: structure
+    label: Productos
+    fields:
+      product:
+        type: text
+        label: Producto
+        width: 1/2
+      picture:
+        type: files
+        label: Imagen
+        width: 1/2
+        layout: cards
+        max: 1
+        image:
+          cover: false
+          back: white
+      link:
+        type: link
+        label: Enlace

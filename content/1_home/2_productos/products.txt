@@ -1,0 +1,29 @@
+Title: Productos
+
+----
+
+Products:
+
+- 
+  product: Helados
+  picture:
+    - file://T5k79gYmKl3ZRY5l
+  link: page://FW8DLOkFA3XzOjI9
+- 
+  product: Paletas
+  picture:
+    - file://1stQuerA7kYneKa6
+  link: page://967FsnmDdUgS6FmX
+- 
+  product: Snacks
+  picture:
+    - file://c4EIqEwJpl7n8tLW
+  link: page://FW8DLOkFA3XzOjI9
+
+----
+
+Text: 
+
+----
+
+Uuid: Jel4bCRZR1zeCXg9

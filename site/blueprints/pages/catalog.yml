@@ -1,0 +1,4 @@
+title: Catálogo de productos
+preset: pages
+templates:
+  - category
